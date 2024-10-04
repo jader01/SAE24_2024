@@ -3,7 +3,9 @@
 ## Introduction
 
 Le but de ce projet est d'apprendre à utiliser la bibliothèque **Scapy** en Python pour analyser des trames réseau. 
+
 Pour cela, il est demandé d'utiliser **Jupyter Notebook** afin d'exécuter et d'apprendre les concepts progressivement. 
+
 Ce projet se déroule en plusieurs étapes, chaque étape proposant des exercices ou des challenges spécifiques qui vous aideront à développer vos compétences en cybersécurité et en analyse de protocoles réseau.
 
 ## Étape 1: Débuter avec Scapy
@@ -28,7 +30,7 @@ Avant d'aller plus loin avec **Scapy**, il est important de maîtriser certaines
 
 ## Étape 4: Challenge FTP
 
-Nous allons maintenant travailler sur des protocoles tels que **FTP**, **TELNET**, **HTTP**, etc., qui ne sont pas chiffrés, contrairement à leurs homologues sécurisés (**SFTP**, **FTPS**, **HTTPS**, **SSH**, etc.). Cela vous permettra de mieux comprendre les risques d'utiliser des protocoles non sécurisés et de relever des challenges de cybersécurité de type **CTF** (Capture The Flag).
+Nous allons maintenant travailler sur des protocoles tels que **FTP**, **TELNET**, **HTTP**, etc., qui ne sont pas chiffrés, contrairement à leurs homologues sécurisés (**SFTP**, **FTPS**, **HTTPS**, **SSH**, etc.). Cela nous permettra de mieux comprendre les risques d'utiliser des protocoles non sécurisés.
 
 Ce premier challenge consiste à analyser une capture Wireshark d'un transfert de fichier via le protocole FTP. Vous devrez écrire des scripts Python permettant d'automatiser cette analyse.
 
@@ -36,7 +38,9 @@ Ce premier challenge consiste à analyser une capture Wireshark d'un transfert d
 
 ## Étape 5: Challenge TELNET
 
-Dans cette étape, vous allez adapter votre code FTP pour un nouveau protocole : **TELNET**. Ce challenge vous demande de retrouver les identifiants de connexion d'une capture TELNET et de créer un script Python capable de les extraire automatiquement.
+Dans cette étape, nous allons adapter le code FTP pour un nouveau protocole : **TELNET**. 
+
+Ce challenge vous demande de retrouver les identifiants de connexion d'une capture TELNET et de créer un script Python capable de les extraire automatiquement.
 
 - **[TELNET_challenge.ipynb](TELNET_challenge.ipynb)** : Challenge TELNET où vous devez retrouver et analyser les identifiants d'une connexion non chiffrée.
 
