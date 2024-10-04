@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Le but de ce projet est d'apprendre à utiliser la bibliothèque **Scapy** en Python pour analyser des trames réseau. Pour cela, il est demandé d'utiliser **Jupyter Notebook** afin d'exécuter et d'apprendre les concepts progressivement. Ce projet se déroule en plusieurs étapes, chaque étape proposant des exercices ou des challenges spécifiques qui vous aideront à développer vos compétences en cybersécurité et en analyse de protocoles réseau.
+Le but de ce projet est d'apprendre à utiliser la bibliothèque **Scapy** en Python pour analyser des trames réseau. 
+Pour cela, il est demandé d'utiliser **Jupyter Notebook** afin d'exécuter et d'apprendre les concepts progressivement. 
+Ce projet se déroule en plusieurs étapes, chaque étape proposant des exercices ou des challenges spécifiques qui vous aideront à développer vos compétences en cybersécurité et en analyse de protocoles réseau.
 
 ## Étape 1: Débuter avec Scapy
 
