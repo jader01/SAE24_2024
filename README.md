@@ -8,7 +8,8 @@ Ce projet se déroule en plusieurs étapes, chaque étape proposant des exercice
 
 ## Étape 1: Débuter avec Scapy
 
-Dans cette première étape, vous allez découvrir les bases de l'utilisation de **Scapy**. Le notebook suivant vous guidera à travers les premières commandes et notions essentielles.
+Dans cette première étape, vous allez découvrir les bases de l'utilisation de **Scapy**.
+Le notebook suivant vous guidera à travers les premières commandes et notions essentielles.
 
 - **[debuter_scapy.ipynb](debuter_scapy.ipynb)** : Introduction aux bases de Scapy.
 
